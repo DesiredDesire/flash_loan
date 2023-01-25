@@ -18,5 +18,5 @@ to build run:
 2. run: yarn build
 
 to test run:
-0. build
-1: run: yarn test
+0. build and run substrate-contract-node
+1. run: yarn test
