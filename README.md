@@ -13,10 +13,12 @@ in src/contracts one can find:
 in tests one can find flash loan tests.
 
 to build run:
+
 0. have npm and yarn installed
 1. run: yarn install
 2. run: yarn build
 
 to test run:
+
 0. build and run substrate-contract-node
 1. run: yarn test
